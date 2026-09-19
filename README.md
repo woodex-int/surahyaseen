@@ -1,12 +1,15 @@
-# Surah Yaseen — Biya Gallery / The Third Art
+# Biya Gallery / The Third Art — Quran Folio Art
 
 Lahore gallery project: Quran folio art (Thread Art) and its presentation decks.
+The 71-folio collection is **Surah Ar-Rahman (55)** — previously mislabelled
+"Surah Yaseen" in early decks and now corrected. Surah Yaseen (36) remains a
+separate edition (83 verses).
 
 ## Current deliverables
 
 | File | What it is |
 |---|---|
-| **`Surah Yaseen - Master Pitch Deck (71 Folios) - v1.pptx`** | **THE SALE DECK (current)** — 93-slide, 16:9, fully editable. 4-part pitch (Vision · The Work · The Seventy-One Folios · Acquisition). Exactly **71 folio slides, one per image, every folio with its polished + compressed frame attached**. Each carries the transcribed panel caption, Uthmani Arabic, and Pickthall English. Refrain folios (31) are marked "the recurring question"; 18 refrain verse-numbers are flagged for verification. No Urdu. Pricing is placeholder ranges, to be confirmed before release |
+| **`Surah Ar-Rahman - Master Pitch Deck (71 Folios) - v1.pptx`** | **THE SALE DECK (current)** — 93-slide, 16:9, fully editable. 4-part pitch (Vision · The Work · The Seventy-One Folios · Acquisition). Exactly **71 folio slides, one per image, every folio with its polished + compressed frame attached** — all 71 folios are Surah Ar-Rahman (55). Each carries the transcribed panel caption, Uthmani Arabic, and Pickthall English. Refrain folios (31) are marked "the recurring question"; 18 refrain verse-numbers are flagged for verification. No Urdu. Pricing is placeholder ranges, to be confirmed before release |
 | **`Surah Yaseen - The Sacred Letters Edition (83 Verses) - v1.pptx`** | The Yaseen edition — 103-slide editable master deck: chapter analysis, commission plan, all **83 verses one slide each** (reserved plates), timeline, acquisition, exhibition |
 | **`YASEEN_INVENTORY.csv`** | 83-row release checklist — every verse verified against the Uthmani codex (alquran.cloud, 19 Sep 2026) with Pickthall renderings |
 | **`YASEEN_EDITION_PLAN.md`** | The edition's master plan: architecture, ten movements, design system, pipeline, 2026 timeline |
